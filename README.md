@@ -188,5 +188,3 @@ The dual-channel pattern (webhook push + status-poll fallback) is what makes thi
 ## License
 
 MIT. Use it, fork it, ship it.
-
-If you find a bug or want to contribute, see the GitHub repo. If you build something cool with this, [we'd love to hear about it](mailto:hello@stillwaterbiolabs.com).
